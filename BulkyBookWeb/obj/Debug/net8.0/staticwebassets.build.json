@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XOIIsBTsUzLuoZB2+kiPuWrXWaq6EZ9JDesEt5uMZD8=",
+  "Hash": "wYQuWp5gjdDx1dp+RYn9h+dE114tW+ak5g1NpymPIqk=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qp1mgd6n66",
-      "Integrity": "0sl73wHKBbjFxQJ6Gyj75lX9xM0weY3l3Q0O2uLkvDM=",
+      "Fingerprint": "lepy3qetih",
+      "Integrity": "45+P3NNnoQXyFF9SsaXsjQEXC/HmQmDRGsZA75sE5D4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Bootswatch.css"
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\bookshop.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/bookshop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qyic7s7qqs",
+      "Integrity": "/s1DuxLvpT/HNdJ+ChewzOPbfnvJQ2NEDI5+D0AxMzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bookshop.jpg"
     },
     {
       "Identity": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
@@ -1516,7 +1537,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "351978"
+          "Value": "293603"
         },
         {
           "Name": "Content-Type",
@@ -1524,11 +1545,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0sl73wHKBbjFxQJ6Gyj75lX9xM0weY3l3Q0O2uLkvDM=\""
+          "Value": "\"45+P3NNnoQXyFF9SsaXsjQEXC/HmQmDRGsZA75sE5D4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 08:04:04 GMT"
+          "Value": "Wed, 25 Jun 2025 08:04:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1538,12 +1559,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0sl73wHKBbjFxQJ6Gyj75lX9xM0weY3l3Q0O2uLkvDM="
+          "Value": "sha256-45+P3NNnoQXyFF9SsaXsjQEXC/HmQmDRGsZA75sE5D4="
         }
       ]
     },
     {
-      "Route": "css/Bootswatch.qp1mgd6n66.css",
+      "Route": "css/Bootswatch.lepy3qetih.css",
       "AssetFile": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\Bootswatch.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1553,7 +1574,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "351978"
+          "Value": "293603"
         },
         {
           "Name": "Content-Type",
@@ -1561,11 +1582,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0sl73wHKBbjFxQJ6Gyj75lX9xM0weY3l3Q0O2uLkvDM=\""
+          "Value": "\"45+P3NNnoQXyFF9SsaXsjQEXC/HmQmDRGsZA75sE5D4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 08:04:04 GMT"
+          "Value": "Wed, 25 Jun 2025 08:04:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1575,7 +1596,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qp1mgd6n66"
+          "Value": "lepy3qetih"
         },
         {
           "Name": "label",
@@ -1583,7 +1604,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0sl73wHKBbjFxQJ6Gyj75lX9xM0weY3l3Q0O2uLkvDM="
+          "Value": "sha256-45+P3NNnoQXyFF9SsaXsjQEXC/HmQmDRGsZA75sE5D4="
         }
       ]
     },
@@ -1748,6 +1769,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/bookshop.jpg",
+      "AssetFile": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\bookshop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/s1DuxLvpT/HNdJ+ChewzOPbfnvJQ2NEDI5+D0AxMzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Jun 2025 04:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/s1DuxLvpT/HNdJ+ChewzOPbfnvJQ2NEDI5+D0AxMzE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bookshop.qyic7s7qqs.jpg",
+      "AssetFile": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\bookshop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/s1DuxLvpT/HNdJ+ChewzOPbfnvJQ2NEDI5+D0AxMzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Jun 2025 04:30:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyic7s7qqs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bookshop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/s1DuxLvpT/HNdJ+ChewzOPbfnvJQ2NEDI5+D0AxMzE="
         }
       ]
     },

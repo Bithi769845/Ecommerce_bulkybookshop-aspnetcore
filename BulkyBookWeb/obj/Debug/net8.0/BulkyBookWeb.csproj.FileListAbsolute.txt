@@ -560,3 +560,4 @@ C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\refint\Bu
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.pdb
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\ref\BulkyBookWeb.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.sourcelink.json
