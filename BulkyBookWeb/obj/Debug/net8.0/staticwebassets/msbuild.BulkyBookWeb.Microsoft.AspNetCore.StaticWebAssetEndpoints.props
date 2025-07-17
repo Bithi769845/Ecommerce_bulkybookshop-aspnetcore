@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyBookWeb.hrgtrgxfa1.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 07:14:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Jul 2025 04:43:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BulkyBookWeb/BulkyBookWeb.hrgtrgxfa1.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BulkyBookWeb.hrgtrgxfa1.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hrgtrgxfa1"},{"Name":"integrity","Value":"sha256-HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k="},{"Name":"label","Value":"_content/BulkyBookWeb/BulkyBookWeb.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 07:14:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HQV4VTyzxzh2/urfel7jNU5/5c1uyO3JHBq\u002BByW18/k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Jul 2025 04:43:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BulkyBookWeb/css/Bootswatch.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Bootswatch.css'))</AssetFile>

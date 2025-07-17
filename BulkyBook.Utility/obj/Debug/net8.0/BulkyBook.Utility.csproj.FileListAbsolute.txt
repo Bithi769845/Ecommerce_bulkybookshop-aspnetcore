@@ -1,0 +1,12 @@
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
