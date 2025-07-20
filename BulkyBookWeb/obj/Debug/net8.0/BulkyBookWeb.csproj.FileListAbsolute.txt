@@ -566,10 +566,14 @@ C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticweb
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBoo.E6A3C86A.Up2Date
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.dll
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\refint\BulkyBookWeb.dll
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.pdb
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\ref\BulkyBookWeb.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ms.bithi\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

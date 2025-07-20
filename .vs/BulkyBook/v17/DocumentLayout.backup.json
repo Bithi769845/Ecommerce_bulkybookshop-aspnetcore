@@ -3,114 +3,148 @@
   "WorkspaceRootPath": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\areas\\admin\\controllers\\covertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\areas\\admin\\controllers\\covertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AB23C89-E269-4088-BC17-D93356E016A3}|BulkyBook.Models\\BulkyBook.Models.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB23C89-E269-4088-BC17-D93356E016A3}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybookweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEA591DB-3626-411E-BAAB-C8B2DE2E9B57}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\ms.bithi\\source\\repos\\bulkybook\\bulkybook.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B65CFD-7269-437C-94D9-28CA5EDF6FFE}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAwAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T06:34:51.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T06:31:21.615Z",
+              "WhenOpened": "2025-07-20T07:08:44.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T06:07:13.709Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:37:02.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHgAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CoverTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\CoverTypesController.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Controllers\\CoverTypesController.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Controllers\\CoverTypesController.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Controllers\\CoverTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T05:56:57.2Z",
+              "WhenOpened": "2025-07-20T06:26:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:25:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:25:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:20:28.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.Models\\Product.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.Models\\Product.cs",
+              "RelativeToolTip": "BulkyBook.Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T04:57:12.734Z",
+              "WhenOpened": "2025-07-20T05:56:22.79Z",
               "EditorCaption": ""
             },
             {
@@ -121,46 +155,49 @@
               "RelativeDocumentMoniker": "BulkyBookWeb\\Program.cs",
               "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Program.cs",
               "RelativeToolTip": "BulkyBookWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T04:41:46.187Z",
+              "WhenOpened": "2025-07-20T05:58:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T07:03:54.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T04:41:08.087Z"
+              "WhenOpened": "2025-07-20T06:40:26.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T04:39:14.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ms.bithi\\source\\repos\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-14T04:35:31.002Z"
+              "WhenOpened": "2025-07-20T06:20:01.818Z",
+              "EditorCaption": ""
             }
           ]
         }
