@@ -44,20 +44,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverTypes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlc1xDcmVhdGUuY3NodG1s
+[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverTypes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlc1xEZWxldGUuY3NodG1s
+[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverTypes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlc1xFZGl0LmNzaHRtbA==
+[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverTypes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlc1xJbmRleC5jc2h0bWw=
+[C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/CoverType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ292ZXJUeXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ms.bithi/source/repos/BulkyBook/BulkyBookWeb/Areas/Admin/Views/Product/Index.cshtml]

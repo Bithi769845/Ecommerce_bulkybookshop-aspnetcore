@@ -11,7 +11,7 @@ namespace BulkyBookWeb.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "CoverTypes",
+                name: "CoverType",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -20,7 +20,7 @@ namespace BulkyBookWeb.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_CoverTypes", x => x.Id);
+                    table.PrimaryKey("PK_CoverType", x => x.Id);
                 });
         }
 
@@ -28,7 +28,7 @@ namespace BulkyBookWeb.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "CoverTypes");
+                name: "CoverType");
         }
     }
 }

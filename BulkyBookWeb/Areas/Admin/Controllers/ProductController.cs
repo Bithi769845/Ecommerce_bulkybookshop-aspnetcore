@@ -33,8 +33,22 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         public async Task<IActionResult> Upsert(int? id)
         {
             Product product = new();
+            IEnumerable<SelectListItem> categoryList = _unitOfWork.Category.GetAll().Select(
+                u=> new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
+            IEnumerable<SelectListItem> coverTypeList = _unitOfWork.CoverType.GetAll().Select(
+                u=> new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
             if (id == null || id == 0)
             {
+                ViewBag.CategoryList = categoryList;
+                ViewData["CoverTypeList"] = coverTypeList;
                 //if null save and create product
                 return View(product);
             }

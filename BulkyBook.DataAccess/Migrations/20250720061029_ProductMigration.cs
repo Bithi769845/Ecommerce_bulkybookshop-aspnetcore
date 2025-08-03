@@ -12,7 +12,7 @@ namespace BulkyBookWeb.Migrations
         {
             migrationBuilder.AlterColumn<string>(
                 name: "Name",
-                table: "CoverTypes",
+                table: "CoverType",
                 type: "nvarchar(50)",
                 maxLength: 50,
                 nullable: false,
@@ -47,9 +47,9 @@ namespace BulkyBookWeb.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_product_CoverTypes_CoverTypeId",
+                        name: "FK_product_CoverType_CoverTypeId",
                         column: x => x.CoverTypeId,
-                        principalTable: "CoverTypes",
+                        principalTable: "CoverType",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -73,7 +73,7 @@ namespace BulkyBookWeb.Migrations
 
             migrationBuilder.AlterColumn<string>(
                 name: "Name",
-                table: "CoverTypes",
+                table: "CoverType",
                 type: "nvarchar(max)",
                 nullable: false,
                 oldClrType: typeof(string),

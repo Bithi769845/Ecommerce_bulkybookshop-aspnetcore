@@ -63,7 +63,7 @@ namespace BulkyBookWeb.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("CoverTypes");
+                    b.ToTable("CoverType");
                 });
 
             modelBuilder.Entity("BulkyBook.Models.Product", b =>
